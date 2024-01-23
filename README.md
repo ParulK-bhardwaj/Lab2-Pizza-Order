@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The goal of this lab was to create an order page for a Pizza using react.
+<img width="880" alt="image" src="https://github.com/ParulK-bhardwaj/Lab2-Pizza-Order/assets/111934039/99ba3d18-0d8c-4050-ab08-de78622bfa51">
+
 
 ## Available Scripts
 
